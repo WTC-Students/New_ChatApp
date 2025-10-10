@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#3F51B5</color>
+    <color name="subtitle_gray">#777777</color>
+    <color name="skip_gray">#999999</color>
+    <color name="divider_gray">#E0E0E0</color>
+</resources>
